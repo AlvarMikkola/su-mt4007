@@ -1,0 +1,1784 @@
+[
+    {
+        "Name":"Restaurang Kryp In S\u00f6dermalm",
+        "Google_Rating":4.9,
+        "Google_Reviews":512,
+        "Address":"Timmermansgatan 22, 118 55 Stockholm, Sweden"
+    },
+    {
+        "Name":"Bl\u00e5 d\u00f6rren",
+        "Google_Rating":4.4,
+        "Google_Reviews":3681,
+        "Address":"S\u00f6dermalmstorg 6, 116 45 Stockholm, Sweden"
+    },
+    {
+        "Name":"Restaurant Pelikan",
+        "Google_Rating":4.4,
+        "Google_Reviews":4324,
+        "Address":"Blekingegatan 40, 116 62 Stockholm, Sweden"
+    },
+    {
+        "Name":"Restaurant Akkurat - S\u00f6dermalm",
+        "Google_Rating":4.4,
+        "Google_Reviews":4144,
+        "Address":"Hornsgatan 18, 118 20 Stockholm, Sweden"
+    },
+    {
+        "Name":"Restaurant O'PIZZICATO",
+        "Google_Rating":4.6,
+        "Google_Reviews":1485,
+        "Address":"Swedenborgsgatan 23, 118 27 Stockholm, Sweden"
+    },
+    {
+        "Name":"Woodstockholm",
+        "Google_Rating":4.6,
+        "Google_Reviews":779,
+        "Address":"Mosebacke Torg 9, 116 46 Stockholm, Sweden"
+    },
+    {
+        "Name":"Restaurant Esperia",
+        "Google_Rating":4.5,
+        "Google_Reviews":1446,
+        "Address":"Sankt Paulsgatan 17, 118 46 Stockholm, Sweden"
+    },
+    {
+        "Name":"Punk Royale",
+        "Google_Rating":4.6,
+        "Google_Reviews":1008,
+        "Address":"Folkungagatan 128, 116 30 Stockholm, Sweden"
+    },
+    {
+        "Name":"Maestro",
+        "Google_Rating":4.7,
+        "Google_Reviews":1324,
+        "Address":"Ringv\u00e4gen 82, 118 60 Stockholm, Sweden"
+    },
+    {
+        "Name":"Hosteria Tre Santi",
+        "Google_Rating":4.5,
+        "Google_Reviews":1286,
+        "Address":"Blekingegatan 32, 118 56 Stockholm, Sweden"
+    },
+    {
+        "Name":"Hermans",
+        "Google_Rating":4.6,
+        "Google_Reviews":4842,
+        "Address":"Fj\u00e4llgatan 23B, 116 28 Stockholm, Sweden"
+    },
+    {
+        "Name":"Kvarnen",
+        "Google_Rating":4.2,
+        "Google_Reviews":4080,
+        "Address":"Tj\u00e4rhovsgatan 4, 116 21 Stockholm, Sweden"
+    },
+    {
+        "Name":"\u00d6stg\u00f6tak\u00e4llaren",
+        "Google_Rating":4.2,
+        "Google_Reviews":1338,
+        "Address":"\u00d6stg\u00f6tagatan 41, 116 25 Stockholm, Sweden"
+    },
+    {
+        "Name":"Tabbouli",
+        "Google_Rating":4.5,
+        "Google_Reviews":1362,
+        "Address":"Tavastgatan 22, 118 24 Stockholm, Sweden"
+    },
+    {
+        "Name":"Deli Di Luca",
+        "Google_Rating":4.4,
+        "Google_Reviews":899,
+        "Address":"Folkungagatan 110, 116 30 Stockholm, Sweden"
+    },
+    {
+        "Name":"Aleks y Filip",
+        "Google_Rating":4.9,
+        "Google_Reviews":721,
+        "Address":"Bj\u00e4lbogatan 32, 118 66 Stockholm, Sweden"
+    },
+    {
+        "Name":"Matboden S\u00f6dermalm",
+        "Google_Rating":4.4,
+        "Google_Reviews":363,
+        "Address":"Folkungagatan 78, 116 22 Stockholm, Sweden"
+    },
+    {
+        "Name":"Nostrano",
+        "Google_Rating":4.5,
+        "Google_Reviews":367,
+        "Address":"Timmermansgatan 13, 118 25 Stockholm, Sweden"
+    },
+    {
+        "Name":"La Perla",
+        "Google_Rating":4.3,
+        "Google_Reviews":1805,
+        "Address":"S\u00f6dermalmsall\u00e9n 36, 118 28 Stockholm, Sweden"
+    },
+    {
+        "Name":"Florentine - Italian Restaurant",
+        "Google_Rating":4.4,
+        "Google_Reviews":1302,
+        "Address":"Folkungagatan 44, 118 26 Stockholm, Sweden"
+    },
+    {
+        "Name":"Celeste",
+        "Google_Rating":4.7,
+        "Google_Reviews":70,
+        "Address":"Torkel Knutssonsgatan 24, 118 49 Stockholm, Sweden"
+    },
+    {
+        "Name":"Restaurang Triton",
+        "Google_Rating":4.8,
+        "Google_Reviews":148,
+        "Address":"Ringv\u00e4gen 87, 118 61 Stockholm, Sweden"
+    },
+    {
+        "Name":"Gondolen",
+        "Google_Rating":4.3,
+        "Google_Reviews":2285,
+        "Address":"Stadsg\u00e5rden 6, 116 45 Stockholm, Sweden"
+    },
+    {
+        "Name":"Restaurant Liebling",
+        "Google_Rating":4.1,
+        "Google_Reviews":271,
+        "Address":"Timmermansgatan 24, 118 55 Stockholm, Sweden"
+    },
+    {
+        "Name":"Milos Restaurang",
+        "Google_Rating":4.7,
+        "Google_Reviews":268,
+        "Address":"S:t G\u00f6ransgatan 121, 112 19 Stockholm, Sweden"
+    },
+    {
+        "Name":"Falafel Bar",
+        "Google_Rating":4.5,
+        "Google_Reviews":1084,
+        "Address":"Hornsgatan 39B, 118 49 Stockholm, Sweden"
+    },
+    {
+        "Name":"Hommage",
+        "Google_Rating":4.3,
+        "Google_Reviews":420,
+        "Address":"Krukmakargatan 22, 118 51 Stockholm, Sweden"
+    },
+    {
+        "Name":"Falloumi",
+        "Google_Rating":4.5,
+        "Google_Reviews":1239,
+        "Address":"Ringv\u00e4gen 127, 116 61 Stockholm, Sweden"
+    },
+    {
+        "Name":"Racamaca",
+        "Google_Rating":4.5,
+        "Google_Reviews":602,
+        "Address":"Wollmar Yxkullsgatan 5B, 118 50 Stockholm, Sweden"
+    },
+    {
+        "Name":"Elies k\u00f6k & bar",
+        "Google_Rating":4.6,
+        "Google_Reviews":536,
+        "Address":"Katarina Bangata 71 A, 116 42 Stockholm, Sweden"
+    },
+    {
+        "Name":"Mazra\u2019a",
+        "Google_Rating":4.6,
+        "Google_Reviews":142,
+        "Address":"Sk\u00e5negatan 82, 116 37 Stockholm, Sweden"
+    },
+    {
+        "Name":"Moldau",
+        "Google_Rating":4.5,
+        "Google_Reviews":1506,
+        "Address":"Bergsunds strand 33, 117 38 Stockholm, Sweden"
+    },
+    {
+        "Name":"The Hills",
+        "Google_Rating":4.4,
+        "Google_Reviews":301,
+        "Address":"G\u00f6tgatan 29, 116 21 Stockholm, Sweden"
+    },
+    {
+        "Name":"Viet Kitchen",
+        "Google_Rating":4.7,
+        "Google_Reviews":576,
+        "Address":"G\u00f6tgatan 78, 118 30 Stockholm, Sweden"
+    },
+    {
+        "Name":"Krogen Soldaten Svejk",
+        "Google_Rating":4.4,
+        "Google_Reviews":2339,
+        "Address":"\u00d6stg\u00f6tagatan 35, 116 25 Stockholm, Sweden"
+    },
+    {
+        "Name":"Meatballs for the People",
+        "Google_Rating":4.2,
+        "Google_Reviews":7784,
+        "Address":"Nytorgsgatan 30, 116 40 Stockholm, Sweden"
+    },
+    {
+        "Name":"Bistro Boheme S\u00f6der",
+        "Google_Rating":4.1,
+        "Google_Reviews":472,
+        "Address":"Sk\u00e5negatan 83, 116 35 Stockholm, Sweden"
+    },
+    {
+        "Name":"S\u00f6ders Hj\u00e4rta",
+        "Google_Rating":4.3,
+        "Google_Reviews":812,
+        "Address":"Bellmansgatan 22, 118 47 Stockholm, Sweden"
+    },
+    {
+        "Name":"\u00c4lskade traditioner",
+        "Google_Rating":4.5,
+        "Google_Reviews":1582,
+        "Address":"S\u00f6dermannagatan 42, 116 40 Stockholm, Sweden"
+    },
+    {
+        "Name":"A Bowl",
+        "Google_Rating":4.5,
+        "Google_Reviews":632,
+        "Address":"Blecktornsgr\u00e4nd 8, 118 24 Stockholm, Sweden"
+    },
+    {
+        "Name":"Greasy Spoon",
+        "Google_Rating":4.4,
+        "Google_Reviews":1867,
+        "Address":"Tj\u00e4rhovsgatan 19, 116 28 Stockholm, Sweden"
+    },
+    {
+        "Name":"Bryggans k\u00f6k & bar",
+        "Google_Rating":4.5,
+        "Google_Reviews":266,
+        "Address":"Tegelviksgatan 85, 116 47 Stockholm, Sweden"
+    },
+    {
+        "Name":"La Piccola Nonna Pizza",
+        "Google_Rating":4.8,
+        "Google_Reviews":530,
+        "Address":"Blekingegatan 36, 118 56 Stockholm, Sweden"
+    },
+    {
+        "Name":"Mormors Lilla K\u00f6k",
+        "Google_Rating":4.8,
+        "Google_Reviews":542,
+        "Address":"Rosenlundsgatan 23, 118 63 Stockholm, Sweden"
+    },
+    {
+        "Name":"Restaurang Nytorget 6",
+        "Google_Rating":4.2,
+        "Google_Reviews":2150,
+        "Address":"Nytorget 6, 114 56 Stockholm, Sweden"
+    },
+    {
+        "Name":"Mamma o. jag Bistro",
+        "Google_Rating":4.7,
+        "Google_Reviews":106,
+        "Address":"Tj\u00e4rhovsgatan 50, 116 28 Stockholm, Sweden"
+    },
+    {
+        "Name":"SPAGO",
+        "Google_Rating":4.2,
+        "Google_Reviews":850,
+        "Address":"G\u00f6tgatan 24, 118 46 Stockholm, Sweden"
+    },
+    {
+        "Name":"Stavros Taverna",
+        "Google_Rating":4.5,
+        "Google_Reviews":627,
+        "Address":"Fatburstrappan 20, 118 26 Stockholm, Sweden"
+    },
+    {
+        "Name":"Koh Phangan",
+        "Google_Rating":4.1,
+        "Google_Reviews":2626,
+        "Address":"Sk\u00e5negatan 57, 116 37 Stockholm, Sweden"
+    },
+    {
+        "Name":"Ramblas",
+        "Google_Rating":4.1,
+        "Google_Reviews":1607,
+        "Address":"Sankt Paulsgatan 22D, 118 48 Stockholm, Sweden"
+    },
+    {
+        "Name":"Hallmans Matbar",
+        "Google_Rating":4.7,
+        "Google_Reviews":126,
+        "Address":"Timmermansgatan 39, 118 55 Stockholm, Sweden"
+    },
+    {
+        "Name":"Il Tempo",
+        "Google_Rating":4.2,
+        "Google_Reviews":954,
+        "Address":"H\u00f6gbergsgatan 40, 118 26 Stockholm, Sweden"
+    },
+    {
+        "Name":"Masala Art Bengali Streetfood",
+        "Google_Rating":4.3,
+        "Google_Reviews":263,
+        "Address":"Ringv\u00e4gen 123, 116 61 Stockholm, Sweden"
+    },
+    {
+        "Name":"Caf\u00e9 Cuv\u00e9e",
+        "Google_Rating":4.5,
+        "Google_Reviews":201,
+        "Address":"H\u00f6gbergsgatan 64, 118 54 Stockholm, Sweden"
+    },
+    {
+        "Name":"Franky's - S\u00f6dermalm",
+        "Google_Rating":4.7,
+        "Google_Reviews":395,
+        "Address":"Blekingegatan 36, 118 56 Stockholm, Sweden"
+    },
+    {
+        "Name":"Bistro S\u00fcd",
+        "Google_Rating":4.0,
+        "Google_Reviews":424,
+        "Address":"Swedenborgsgatan 8A, 118 48 Stockholm, Sweden"
+    },
+    {
+        "Name":"BOO Burgers & Barbecue S\u00f6der",
+        "Google_Rating":4.6,
+        "Google_Reviews":407,
+        "Address":"G\u00f6tgatan 62, 118 26 Stockholm, Sweden"
+    },
+    {
+        "Name":"MamaWolf",
+        "Google_Rating":4.5,
+        "Google_Reviews":1311,
+        "Address":"Krukmakargatan 1, 118 51 Stockholm, Sweden"
+    },
+    {
+        "Name":"Madam \ub9c8\ub2f4",
+        "Google_Rating":4.3,
+        "Google_Reviews":474,
+        "Address":"Tj\u00e4rhovsgatan 5, 116 21 Stockholm, Sweden"
+    },
+    {
+        "Name":"Brunos korvbar",
+        "Google_Rating":4.5,
+        "Google_Reviews":689,
+        "Address":"Rosenlundsgatan 20, 118 53 Stockholm, Sweden"
+    },
+    {
+        "Name":"Smak",
+        "Google_Rating":4.4,
+        "Google_Reviews":1372,
+        "Address":"Oxtorgsgatan 14, 111 57 Stockholm, Sweden"
+    },
+    {
+        "Name":"Prospero Restaurant",
+        "Google_Rating":4.8,
+        "Google_Reviews":265,
+        "Address":"Roslagsgatan 21, 113 55 Stockholm, Sweden"
+    },
+    {
+        "Name":"Restaurang Prinsen",
+        "Google_Rating":4.4,
+        "Google_Reviews":2474,
+        "Address":"M\u00e4ster Samuelsgatan 4, 111 44 Stockholm, Sweden"
+    },
+    {
+        "Name":"Nomad | Swedish Food & Bar",
+        "Google_Rating":4.4,
+        "Google_Reviews":1715,
+        "Address":"Upplandsgatan 2, 111 23 Stockholm, Sweden"
+    },
+    {
+        "Name":"Restaurant Kajsas Fisk",
+        "Google_Rating":4.6,
+        "Google_Reviews":3084,
+        "Address":"H\u00f6torgshallen 3, 111 57 Stockholm, Sweden"
+    },
+    {
+        "Name":"Lilla Ego",
+        "Google_Rating":4.7,
+        "Google_Reviews":1031,
+        "Address":"V\u00e4stmannagatan 69, 113 26 Stockholm, Sweden"
+    },
+    {
+        "Name":"Restaurant Tegelbacken",
+        "Google_Rating":4.7,
+        "Google_Reviews":630,
+        "Address":"Tegelbacken 2, 111 52 Stockholm, Sweden"
+    },
+    {
+        "Name":"Restaurang Esperanza",
+        "Google_Rating":4.5,
+        "Google_Reviews":845,
+        "Address":"Odengatan 68, 113 22 Stockholm, Sweden"
+    },
+    {
+        "Name":"Bistro Bestick",
+        "Google_Rating":4.5,
+        "Google_Reviews":1668,
+        "Address":"Bryggargatan 8, 111 21 Stockholm, Sweden"
+    },
+    {
+        "Name":"Restaurang Farang",
+        "Google_Rating":4.5,
+        "Google_Reviews":2007,
+        "Address":"Tulegatan 7, 113 53 Stockholm, Sweden"
+    },
+    {
+        "Name":"La Neta City",
+        "Google_Rating":4.4,
+        "Google_Reviews":4739,
+        "Address":"Barnhusgatan 2, 111 23 Stockholm, Sweden"
+    },
+    {
+        "Name":"Supper Stockholm",
+        "Google_Rating":4.4,
+        "Google_Reviews":1081,
+        "Address":"Humleg\u00e5rdsgatan 17, 114 46 Stockholm, Sweden"
+    },
+    {
+        "Name":"Rolfs K\u00f6k",
+        "Google_Rating":4.5,
+        "Google_Reviews":2650,
+        "Address":"Tegn\u00e9rgatan 41, 111 61 Stockholm, Sweden"
+    },
+    {
+        "Name":"da peppe due",
+        "Google_Rating":4.2,
+        "Google_Reviews":1251,
+        "Address":"Upplandsgatan 6, 111 23 Stockholm, Sweden"
+    },
+    {
+        "Name":"noorm",
+        "Google_Rating":4.9,
+        "Google_Reviews":74,
+        "Address":"Norrtullsgatan 61, 113 45 Stockholm, Sweden"
+    },
+    {
+        "Name":"Wedholms Fisk",
+        "Google_Rating":4.7,
+        "Google_Reviews":817,
+        "Address":"Arsenalsgatan 1, 111 47 Stockholm, Sweden"
+    },
+    {
+        "Name":"Mancini",
+        "Google_Rating":4.5,
+        "Google_Reviews":643,
+        "Address":"Tunnelgatan 1A, 111 37 Stockholm, Sweden"
+    },
+    {
+        "Name":"Restaurant Nalen",
+        "Google_Rating":4.4,
+        "Google_Reviews":250,
+        "Address":"Regeringsgatan 74, 111 39 Stockholm, Sweden"
+    },
+    {
+        "Name":"Hattori Sushi Devil",
+        "Google_Rating":4.6,
+        "Google_Reviews":1069,
+        "Address":"Drottninggatan 85, 111 61 Stockholm, Sweden"
+    },
+    {
+        "Name":"Tajrish restaurang",
+        "Google_Rating":4.9,
+        "Google_Reviews":309,
+        "Address":"Torsgatan 31, 113 21 Stockholm, Sweden"
+    },
+    {
+        "Name":"Restaurant Konstn\u00e4rsbaren",
+        "Google_Rating":4.4,
+        "Google_Reviews":968,
+        "Address":"Sm\u00e5landsgatan 7, 111 46 Stockholm, Sweden"
+    },
+    {
+        "Name":"Aqui",
+        "Google_Rating":4.3,
+        "Google_Reviews":1914,
+        "Address":"Kammakargatan 9, 111 40 Stockholm, Sweden"
+    },
+    {
+        "Name":"Restaurang Underbar",
+        "Google_Rating":4.3,
+        "Google_Reviews":1303,
+        "Address":"Drottninggatan 102, 111 60 Stockholm, Sweden"
+    },
+    {
+        "Name":"Scarpetta (by Ingrosso)",
+        "Google_Rating":4.4,
+        "Google_Reviews":3074,
+        "Address":"Drottninggatan 71B, 111 36 Stockholm, Sweden"
+    },
+    {
+        "Name":"Weidao",
+        "Google_Rating":4.3,
+        "Google_Reviews":1266,
+        "Address":"Vasagatan 7, 111 20 Stockholm, Sweden"
+    },
+    {
+        "Name":"Drottninghof Grill & Bar",
+        "Google_Rating":4.2,
+        "Google_Reviews":2202,
+        "Address":"Drottninggatan 67, 111 36 Stockholm, Sweden"
+    },
+    {
+        "Name":"MAP Petite Maison",
+        "Google_Rating":4.7,
+        "Google_Reviews":169,
+        "Address":"Vasagatan 38, 111 20 Stockholm, Sweden"
+    },
+    {
+        "Name":"Giro",
+        "Google_Rating":4.3,
+        "Google_Reviews":1997,
+        "Address":"Sveav\u00e4gen 46, 111 34 Stockholm, Sweden"
+    },
+    {
+        "Name":"Lebanon Meza Lounge",
+        "Google_Rating":4.2,
+        "Google_Reviews":2580,
+        "Address":"Hamngatan 6, 111 47 Stockholm, Sweden"
+    },
+    {
+        "Name":"Griffins",
+        "Google_Rating":4.3,
+        "Google_Reviews":2323,
+        "Address":"Klarabergsviadukten 67, 111 64 Stockholm, Sweden"
+    },
+    {
+        "Name":"Restaurang Hantverket",
+        "Google_Rating":4.6,
+        "Google_Reviews":1993,
+        "Address":"Sturegatan 15a, 114 36 Stockholm, Sweden"
+    },
+    {
+        "Name":"Knut bar",
+        "Google_Rating":4.5,
+        "Google_Reviews":1130,
+        "Address":"Regeringsgatan 77, 111 39 Stockholm, Sweden"
+    },
+    {
+        "Name":"Olli Ristorante",
+        "Google_Rating":4.4,
+        "Google_Reviews":3079,
+        "Address":"Jakobsbergsgatan 21, 111 44 Stockholm, Sweden"
+    },
+    {
+        "Name":"BASTA - Italiensk restaurang (\u00c5hl\u00e9ns City)",
+        "Google_Rating":4.3,
+        "Google_Reviews":1350,
+        "Address":"M\u00e4ster Samuelsgatan 59, 111 21 Stockholm, Sweden"
+    },
+    {
+        "Name":"Knut Upplandsgatan",
+        "Google_Rating":4.4,
+        "Google_Reviews":1554,
+        "Address":"Upplandsgatan 17, 113 60 Stockholm, Sweden"
+    },
+    {
+        "Name":"Restaurang La Fiamma",
+        "Google_Rating":4.4,
+        "Google_Reviews":556,
+        "Address":"Malmskillnadsgatan 60, 111 38 Stockholm, Sweden"
+    },
+    {
+        "Name":"An Nam",
+        "Google_Rating":4.6,
+        "Google_Reviews":589,
+        "Address":"Tegn\u00e9rgatan 19, 111 40 Stockholm, Sweden"
+    },
+    {
+        "Name":"Gioia",
+        "Google_Rating":4.3,
+        "Google_Reviews":383,
+        "Address":"Gamla Brogatan 36, 111 20 Stockholm, Sweden"
+    },
+    {
+        "Name":"Restaurant Ekstedt",
+        "Google_Rating":4.7,
+        "Google_Reviews":776,
+        "Address":"Humleg\u00e5rdsgatan 17, 114 46 Stockholm, Sweden"
+    },
+    {
+        "Name":"Restaurant Verandan",
+        "Google_Rating":4.5,
+        "Google_Reviews":493,
+        "Address":"S\u00f6dra Blasieholmshamnen 8, 111 48 Stockholm, Sweden"
+    },
+    {
+        "Name":"Paul's",
+        "Google_Rating":3.8,
+        "Google_Reviews":136,
+        "Address":"Kungsgatan 45, 111 56 Stockholm, Sweden"
+    },
+    {
+        "Name":"Restaurang Sensum",
+        "Google_Rating":4.4,
+        "Google_Reviews":600,
+        "Address":"Wallingatan 40, 111 24 Stockholm, Sweden"
+    },
+    {
+        "Name":"Restaurant Waipo",
+        "Google_Rating":4.2,
+        "Google_Reviews":1659,
+        "Address":"Jakobsbergsgatan 15, 111 44 Stockholm, Sweden"
+    },
+    {
+        "Name":"Swede Hollow",
+        "Google_Rating":3.7,
+        "Google_Reviews":90,
+        "Address":"Vasaplan 4, 111 20 Stockholm, Sweden"
+    },
+    {
+        "Name":"Rydbergs Bar & Matsal AB",
+        "Google_Rating":3.7,
+        "Google_Reviews":1195,
+        "Address":"Drottninggatan 88, 111 36 Stockholm, Sweden"
+    },
+    {
+        "Name":"Stockholm Fisk",
+        "Google_Rating":4.2,
+        "Google_Reviews":1522,
+        "Address":"Vasagatan 1, 111 20 Stockholm, Sweden"
+    },
+    {
+        "Name":"Mas que tapas stockholm - Tapasrestaurang & Bar",
+        "Google_Rating":4.0,
+        "Google_Reviews":157,
+        "Address":"Klarabergsviadukten 86, 101 30 Stockholm, Sweden"
+    },
+    {
+        "Name":"At Six Dining Room",
+        "Google_Rating":4.3,
+        "Google_Reviews":371,
+        "Address":"Brunkebergstorg 6, 111 51 Stockholm, Sweden"
+    },
+    {
+        "Name":"Boqueria Stockholm",
+        "Google_Rating":4.0,
+        "Google_Reviews":2392,
+        "Address":"MOOD, Jakobsbergsgatan 17, 111 44 Stockholm, Sweden"
+    },
+    {
+        "Name":"Caliente Tapas bar city",
+        "Google_Rating":4.2,
+        "Google_Reviews":1137,
+        "Address":"Adolf Fredriks kyrkogata 12, 111 37 Stockholm, Sweden"
+    },
+    {
+        "Name":"Tjabba Thai",
+        "Google_Rating":4.4,
+        "Google_Reviews":1317,
+        "Address":"Wallingatan 7, 111 60 Stockholm, Sweden"
+    },
+    {
+        "Name":"Tak",
+        "Google_Rating":4.2,
+        "Google_Reviews":3323,
+        "Address":"Brunkebergstorg 2, 4, 111 51 Stockholm, Sweden"
+    },
+    {
+        "Name":"Restaurang Hubertus AB",
+        "Google_Rating":4.1,
+        "Google_Reviews":844,
+        "Address":"Drottningatan 88, Holl\u00e4ndargatan 9, 111 36 Stockholm, Sweden"
+    },
+    {
+        "Name":"Z\u00f3calo - Fresh Happy Mex",
+        "Google_Rating":3.8,
+        "Google_Reviews":447,
+        "Address":"Regeringsgatan 20, 111 53 Stockholm, Sweden"
+    },
+    {
+        "Name":"Br\u00f6dernas",
+        "Google_Rating":3.9,
+        "Google_Reviews":76,
+        "Address":"Vasagatan 14, 111 20 Stockholm, Sweden"
+    },
+    {
+        "Name":"The Restaurant & Bar at Sheraton Stockholm",
+        "Google_Rating":4.0,
+        "Google_Reviews":130,
+        "Address":"Tegelbacken, 111 20 Stockholm, Sweden"
+    },
+    {
+        "Name":"Pyttirian",
+        "Google_Rating":3.8,
+        "Google_Reviews":635,
+        "Address":"Kungsgatan 44, 111 35 Stockholm, Sweden"
+    },
+    {
+        "Name":"Belgobaren",
+        "Google_Rating":4.1,
+        "Google_Reviews":3111,
+        "Address":"Bryggargatan 12, 111 21 Stockholm, Sweden"
+    },
+    {
+        "Name":"Jensens B\u00f8fhus",
+        "Google_Rating":3.5,
+        "Google_Reviews":2100,
+        "Address":"Sergels Torg 1, 111 57 Stockholm, Sweden"
+    },
+    {
+        "Name":"Le Relais de la Gare",
+        "Google_Rating":3.9,
+        "Google_Reviews":546,
+        "Address":"Vasagatan 38, 111 20 Stockholm, Sweden"
+    },
+    {
+        "Name":"Restaurang Cypern",
+        "Google_Rating":4.5,
+        "Google_Reviews":1208,
+        "Address":"Valhallav\u00e4gen 50, 114 27 Stockholm, Sweden"
+    },
+    {
+        "Name":"Coup D'etat",
+        "Google_Rating":4.7,
+        "Google_Reviews":878,
+        "Address":"Engelbrektsgatan 37, 114 32 Stockholm, Sweden"
+    },
+    {
+        "Name":"soar\u00e9 - raclette & fondue",
+        "Google_Rating":4.8,
+        "Google_Reviews":176,
+        "Address":"Birger Jarlsgatan 121, 113 56 Stockholm, Sweden"
+    },
+    {
+        "Name":"Mom's Kitchen Nybrogatan",
+        "Google_Rating":4.6,
+        "Google_Reviews":1489,
+        "Address":"Nybrogatan 40, 114 40 Stockholm, Sweden"
+    },
+    {
+        "Name":"Trattoria Montanari",
+        "Google_Rating":4.4,
+        "Google_Reviews":902,
+        "Address":"Grev Turegatan 56, 114 38 Stockholm, Sweden"
+    },
+    {
+        "Name":"Tapir",
+        "Google_Rating":4.7,
+        "Google_Reviews":230,
+        "Address":"Skeppargatan 18, 114 52 Stockholm, Sweden"
+    },
+    {
+        "Name":"Un Poco",
+        "Google_Rating":4.4,
+        "Google_Reviews":1056,
+        "Address":"Karlav\u00e4gen 28, 114 31 Stockholm, Sweden"
+    },
+    {
+        "Name":"Miss Voon",
+        "Google_Rating":4.3,
+        "Google_Reviews":1184,
+        "Address":"Sturegatan 22, 114 36 Stockholm, Sweden"
+    },
+    {
+        "Name":"Lisa Elmqvist",
+        "Google_Rating":4.5,
+        "Google_Reviews":1764,
+        "Address":"\u00d6stermalms Food Hall, Nybrogatan 31, 114 46 Stockholm, Sweden"
+    },
+    {
+        "Name":"Italiana \u00d6stermalm - Italiensk restaurang",
+        "Google_Rating":4.3,
+        "Google_Reviews":289,
+        "Address":"Birger Jarlsgatan 95, 113 56 Stockholm, Sweden"
+    },
+    {
+        "Name":"Godot Brasserie",
+        "Google_Rating":4.5,
+        "Google_Reviews":608,
+        "Address":"Grev Turegatan 36, 114 38 Stockholm, Sweden"
+    },
+    {
+        "Name":"Brasserie bobonne",
+        "Google_Rating":4.6,
+        "Google_Reviews":425,
+        "Address":"Storgatan 12, 114 51 Stockholm, Sweden"
+    },
+    {
+        "Name":"Black Milk Gastro Bar",
+        "Google_Rating":4.6,
+        "Google_Reviews":75,
+        "Address":"Engelbrektsgatan 3, 114 32 Stockholm, Sweden"
+    },
+    {
+        "Name":"Ling Long",
+        "Google_Rating":4.2,
+        "Google_Reviews":858,
+        "Address":"Riddargatan 6, 114 35 Stockholm, Sweden"
+    },
+    {
+        "Name":"Restaurant Oxenstiernan",
+        "Google_Rating":4.4,
+        "Google_Reviews":141,
+        "Address":"Storgatan 35 C, 114 55 Stockholm, Sweden"
+    },
+    {
+        "Name":"Glashuset Restaurant & Bar",
+        "Google_Rating":4.4,
+        "Google_Reviews":2254,
+        "Address":"Strandv\u00e4gen 18, 114 56 Stockholm, Sweden"
+    },
+    {
+        "Name":"Restaurang Kouzina",
+        "Google_Rating":4.5,
+        "Google_Reviews":1226,
+        "Address":"Valhallav\u00e4gen 131, 115 31 Stockholm, Sweden"
+    },
+    {
+        "Name":"Cr\u00e8me Stockholm",
+        "Google_Rating":4.4,
+        "Google_Reviews":269,
+        "Address":"Nybrogatan 16, 114 39 Stockholm, Sweden"
+    },
+    {
+        "Name":"Grodan",
+        "Google_Rating":4.3,
+        "Google_Reviews":1985,
+        "Address":"Grev Turegatan 16, 114 46 Stockholm, Sweden"
+    },
+    {
+        "Name":"Sturehof",
+        "Google_Rating":4.3,
+        "Google_Reviews":2909,
+        "Address":"Stureplan 2, 114 35 Stockholm, Sweden"
+    },
+    {
+        "Name":"Restaurant PA&Co",
+        "Google_Rating":4.4,
+        "Google_Reviews":220,
+        "Address":"Riddargatan 8, 114 35 Stockholm, Sweden"
+    },
+    {
+        "Name":"Bistrot du Passage",
+        "Google_Rating":5.0,
+        "Google_Reviews":25,
+        "Address":"Nybrogatan 31, 114 39 Stockholm, Sweden"
+    },
+    {
+        "Name":"Napolyon Bistro & Bar",
+        "Google_Rating":4.4,
+        "Google_Reviews":160,
+        "Address":"Grev Turegatan 15, 114 46 Stockholm, Sweden"
+    },
+    {
+        "Name":"Copine by Jim&Jacob",
+        "Google_Rating":4.7,
+        "Google_Reviews":312,
+        "Address":"Kommend\u00f6rsgatan 23, 114 48 Stockholm, Sweden"
+    },
+    {
+        "Name":"Hillenberg",
+        "Google_Rating":4.3,
+        "Google_Reviews":722,
+        "Address":"Humleg\u00e5rdsgatan 14, 114 46 Stockholm, Sweden"
+    },
+    {
+        "Name":"Svenska G\u00e5rdsk\u00f6k",
+        "Google_Rating":4.4,
+        "Google_Reviews":186,
+        "Address":"Sturegatan 62, 114 36 Stockholm, Sweden"
+    },
+    {
+        "Name":"Restaurant Ergo",
+        "Google_Rating":4.9,
+        "Google_Reviews":13,
+        "Address":"Artillerigatan 14, 114 51 Stockholm, Sweden"
+    },
+    {
+        "Name":"Nybrogatan 38 kvarterskrog och barservering",
+        "Google_Rating":4.3,
+        "Google_Reviews":1304,
+        "Address":"Nybrogatan 38, 114 40 Stockholm, Sweden"
+    },
+    {
+        "Name":"Canta Lola",
+        "Google_Rating":4.3,
+        "Google_Reviews":246,
+        "Address":"Grev Turegatan 6, 114 46 Stockholm, Sweden"
+    },
+    {
+        "Name":"Riche",
+        "Google_Rating":4.1,
+        "Google_Reviews":2703,
+        "Address":"Birger Jarlsgatan 4, 114 34 Stockholm, Sweden"
+    },
+    {
+        "Name":"bap - Burgers & Pastrami",
+        "Google_Rating":4.5,
+        "Google_Reviews":2470,
+        "Address":"Linn\u00e9gatan 38, 114 47 Stockholm, Sweden"
+    },
+    {
+        "Name":"Stim",
+        "Google_Rating":4.8,
+        "Google_Reviews":169,
+        "Address":"Narvav\u00e4gen 32, 115 22 Stockholm, Sweden"
+    },
+    {
+        "Name":"Il Conte",
+        "Google_Rating":4.3,
+        "Google_Reviews":718,
+        "Address":"Grevgatan 9, 114 53 Stockholm, Sweden"
+    },
+    {
+        "Name":"Aubergine",
+        "Google_Rating":4.3,
+        "Google_Reviews":760,
+        "Address":"Linn\u00e9gatan 38, 114 47 Stockholm, Sweden"
+    },
+    {
+        "Name":"Brasserie Astoria",
+        "Google_Rating":4.4,
+        "Google_Reviews":1162,
+        "Address":"Nybrogatan 15, 114 39 Stockholm, Sweden"
+    },
+    {
+        "Name":"ok ok",
+        "Google_Rating":4.8,
+        "Google_Reviews":290,
+        "Address":"V\u00e4rtav\u00e4gen 27, 115 29 Stockholm, Sweden"
+    },
+    {
+        "Name":"Restaurant Artilleriet",
+        "Google_Rating":4.4,
+        "Google_Reviews":849,
+        "Address":"Artillerigatan 13, 114 51 Stockholm, Sweden"
+    },
+    {
+        "Name":"Coco & Carmen",
+        "Google_Rating":4.5,
+        "Google_Reviews":330,
+        "Address":"Ban\u00e9rgatan 7, 114 56 Stockholm, Sweden"
+    },
+    {
+        "Name":"Villaggio Restaurant",
+        "Google_Rating":4.2,
+        "Google_Reviews":751,
+        "Address":"Skeppargatan 16, 114 57 Stockholm, Sweden"
+    },
+    {
+        "Name":"Koh Phangan",
+        "Google_Rating":4.1,
+        "Google_Reviews":1824,
+        "Address":"Nybrogatan 8, 114 34 Stockholm, Sweden"
+    },
+    {
+        "Name":"Kommend\u00f6ren",
+        "Google_Rating":4.3,
+        "Google_Reviews":639,
+        "Address":"Kommend\u00f6rsgatan 7, 114 48 Stockholm, Sweden"
+    },
+    {
+        "Name":"Nyko Kitchen",
+        "Google_Rating":4.0,
+        "Google_Reviews":486,
+        "Address":"Nybrogatan 61, Kommend\u00f6rsgatan 17, 114 40 Stockholm, Sweden"
+    },
+    {
+        "Name":"Halv Grek Plus Turk",
+        "Google_Rating":4.1,
+        "Google_Reviews":260,
+        "Address":"Jungfrugatan 33, 114 44 Stockholm, Sweden"
+    },
+    {
+        "Name":"Villa Dagmar Restaurant",
+        "Google_Rating":3.7,
+        "Google_Reviews":158,
+        "Address":"Nybrogatan 25-27, 114 39 Stockholm, Sweden"
+    },
+    {
+        "Name":"Restaurang Tako",
+        "Google_Rating":4.3,
+        "Google_Reviews":789,
+        "Address":"Grev Turegatan 1, 114 34 Stockholm, Sweden"
+    },
+    {
+        "Name":"Meno Male \u00d6stermalm",
+        "Google_Rating":4.5,
+        "Google_Reviews":1311,
+        "Address":"Sibyllegatan 47, 114 42 Stockholm, Sweden"
+    },
+    {
+        "Name":"Italiano",
+        "Google_Rating":4.0,
+        "Google_Reviews":463,
+        "Address":"Nybrogatan 12, 114 39 Stockholm, Sweden"
+    },
+    {
+        "Name":"Ciao Ciao Due",
+        "Google_Rating":4.2,
+        "Google_Reviews":666,
+        "Address":"Karlav\u00e4gen 8, 114 24 Stockholm, Sweden"
+    },
+    {
+        "Name":"Pap\u00e0",
+        "Google_Rating":4.1,
+        "Google_Reviews":208,
+        "Address":"Riddargatan 9, 114 51 Stockholm, Sweden"
+    },
+    {
+        "Name":"DoMa",
+        "Google_Rating":4.4,
+        "Google_Reviews":261,
+        "Address":"Nybrogatan 48, 114 40 Stockholm, Sweden"
+    },
+    {
+        "Name":"Broms - Restaurang & Bar",
+        "Google_Rating":4.0,
+        "Google_Reviews":1057,
+        "Address":"Karlav\u00e4gen 76, Grevgatan 64, 114 59 Stockholm, Sweden"
+    },
+    {
+        "Name":"Restaurant Cassi",
+        "Google_Rating":4.0,
+        "Google_Reviews":424,
+        "Address":"Narvav\u00e4gen 30, 115 22 Stockholm, Sweden"
+    },
+    {
+        "Name":"Tysta Mari",
+        "Google_Rating":4.1,
+        "Google_Reviews":149,
+        "Address":"\u00d6stermalmstorg 31, 114 39 Stockholm, Sweden"
+    },
+    {
+        "Name":"Eatnam \u00d6stermalm",
+        "Google_Rating":4.3,
+        "Google_Reviews":714,
+        "Address":"Birger Jarlsgatan 36, 114 29 Stockholm, Sweden"
+    },
+    {
+        "Name":"Spice of India",
+        "Google_Rating":4.0,
+        "Google_Reviews":337,
+        "Address":"Sturegatan 29, 114 36 Stockholm, Sweden"
+    },
+    {
+        "Name":"Hotel Diplomat Restaurant",
+        "Google_Rating":4.0,
+        "Google_Reviews":219,
+        "Address":"Strandv\u00e4gen 7, C, 114 56 Stockholm, Sweden"
+    },
+    {
+        "Name":"Spanjorskan",
+        "Google_Rating":3.9,
+        "Google_Reviews":946,
+        "Address":"Nybrogatan 42, 114 40 Stockholm, Sweden"
+    },
+    {
+        "Name":"dell Attore",
+        "Google_Rating":4.5,
+        "Google_Reviews":408,
+        "Address":"Skeppargatan 60, 114 59 Stockholm, Sweden"
+    },
+    {
+        "Name":"Restaurant Tradition",
+        "Google_Rating":4.6,
+        "Google_Reviews":3036,
+        "Address":"\u00d6sterl\u00e5nggatan 1, 113 53 Stockholm, Sweden"
+    },
+    {
+        "Name":"Aifur",
+        "Google_Rating":4.6,
+        "Google_Reviews":6440,
+        "Address":"V\u00e4sterl\u00e5nggatan 68b, 111 27 Stockholm, Sweden"
+    },
+    {
+        "Name":"Slingerbulten",
+        "Google_Rating":4.5,
+        "Google_Reviews":2722,
+        "Address":"Stora Nygatan 24, 111 27 Stockholm, Sweden"
+    },
+    {
+        "Name":"The Hairy Pig Restaurant",
+        "Google_Rating":4.2,
+        "Google_Reviews":1589,
+        "Address":"Lilla Nygatan 13, 111 28 Stockholm, Sweden"
+    },
+    {
+        "Name":"GAMLA STAN HOF",
+        "Google_Rating":4.4,
+        "Google_Reviews":566,
+        "Address":"Stora Nygatan 25, 111 27 Stockholm, Sweden"
+    },
+    {
+        "Name":"Restaurang Kryp In",
+        "Google_Rating":4.6,
+        "Google_Reviews":1504,
+        "Address":"Pr\u00e4stgatan 17, 111 29 Stockholm, Sweden"
+    },
+    {
+        "Name":"Ristorante Paganini",
+        "Google_Rating":4.3,
+        "Google_Reviews":2230,
+        "Address":"V\u00e4sterl\u00e5nggatan 75, 111 29 Stockholm, Sweden"
+    },
+    {
+        "Name":"Barrels",
+        "Google_Rating":4.4,
+        "Google_Reviews":4331,
+        "Address":"Stora Nygatan 20, 111 27 Stockholm, Sweden"
+    },
+    {
+        "Name":"Restaurang Agaton",
+        "Google_Rating":4.3,
+        "Google_Reviews":2725,
+        "Address":"V\u00e4sterl\u00e5nggatan 72, 111 29 Stockholm, Sweden"
+    },
+    {
+        "Name":"Ristorante da Peppe",
+        "Google_Rating":4.3,
+        "Google_Reviews":1680,
+        "Address":"Stora Nygatan 3, 111 27 Stockholm, Sweden"
+    },
+    {
+        "Name":"Den Gyldene Freden",
+        "Google_Rating":4.3,
+        "Google_Reviews":1460,
+        "Address":"\u00d6sterl\u00e5nggatan 51, 111 31 Stockholm, Sweden"
+    },
+    {
+        "Name":"Fem sm\u00e5 hus",
+        "Google_Rating":4.3,
+        "Google_Reviews":918,
+        "Address":"Nygr\u00e4nd 10, 111 30 Stockholm, Sweden"
+    },
+    {
+        "Name":"FIKA & WINE",
+        "Google_Rating":4.8,
+        "Google_Reviews":812,
+        "Address":"\u00d6sterl\u00e5nggatan 5, 111 31 Stockholm, Sweden"
+    },
+    {
+        "Name":"Restaurant Portofino",
+        "Google_Rating":4.4,
+        "Google_Reviews":933,
+        "Address":"Stora Nygatan 46, 111 27 Stockholm, Sweden"
+    },
+    {
+        "Name":"Cork Vinbar",
+        "Google_Rating":4.8,
+        "Google_Reviews":341,
+        "Address":"Stora Nygatan 22, 111 27 Stockholm, Sweden"
+    },
+    {
+        "Name":"Ruby",
+        "Google_Rating":4.3,
+        "Google_Reviews":1075,
+        "Address":"\u00d6sterl\u00e5nggatan 14, 111 31 Stockholm, Sweden"
+    },
+    {
+        "Name":"Vapiano Gamla Stan",
+        "Google_Rating":3.9,
+        "Google_Reviews":4498,
+        "Address":"Munkbrogatan 8, 111 27 Stockholm, Sweden"
+    },
+    {
+        "Name":"Under Kastanjen",
+        "Google_Rating":4.2,
+        "Google_Reviews":1974,
+        "Address":"Br\u00e4nda tomten, 111 31 Stockholm, Sweden"
+    },
+    {
+        "Name":"Restaurang De Svarta F\u00e5ren",
+        "Google_Rating":3.5,
+        "Google_Reviews":1252,
+        "Address":"Stortorget 16, 111 29 Stockholm, Sweden"
+    },
+    {
+        "Name":"Restaurang Oummi",
+        "Google_Rating":4.5,
+        "Google_Reviews":875,
+        "Address":"Lilla Nygatan 11, 111 28 Stockholm, Sweden"
+    },
+    {
+        "Name":"Stockholms G\u00e4stabud",
+        "Google_Rating":4.7,
+        "Google_Reviews":5313,
+        "Address":"\u00d6sterl\u00e5nggatan 7, 111 31 Stockholm, Sweden"
+    },
+    {
+        "Name":"Restaurant Ardbeg Embassy",
+        "Google_Rating":4.6,
+        "Google_Reviews":2596,
+        "Address":"V\u00e4sterl\u00e5nggatan 68, 111 29 Stockholm, Sweden"
+    },
+    {
+        "Name":"Vegan-Vegetarian Restaurant Hermitage",
+        "Google_Rating":4.5,
+        "Google_Reviews":1528,
+        "Address":"Stora Nygatan 11, 111 27 Stockholm, Sweden"
+    },
+    {
+        "Name":"Kaffegillet Restaurang och Caf\u00e9",
+        "Google_Rating":4.4,
+        "Google_Reviews":550,
+        "Address":"Tr\u00e5ngsund 4, 111 29 Stockholm, Sweden"
+    },
+    {
+        "Name":"Tre Valv",
+        "Google_Rating":4.3,
+        "Google_Reviews":4693,
+        "Address":"J\u00e4rntorget 83, 111 29 Stockholm, Sweden"
+    },
+    {
+        "Name":"Restaurant C & C",
+        "Google_Rating":4.5,
+        "Google_Reviews":900,
+        "Address":"Skr\u00e4ddargr\u00e4nd 2B, 111 27 Stockholm, Sweden"
+    },
+    {
+        "Name":"Augustas folksalong",
+        "Google_Rating":4.7,
+        "Google_Reviews":68,
+        "Address":"Stora Nygatan 31, 111 27 Stockholm, Sweden"
+    },
+    {
+        "Name":"\u00d6sterl\u00e5nggatan 17",
+        "Google_Rating":4.1,
+        "Google_Reviews":1138,
+        "Address":"\u00d6sterl\u00e5nggatan 17, 111 31 Stockholm, Sweden"
+    },
+    {
+        "Name":"Restaurant Reiss",
+        "Google_Rating":4.5,
+        "Google_Reviews":30,
+        "Address":"Skeppsbron 12, 111 30 Stockholm, Sweden"
+    },
+    {
+        "Name":"Corvina Enoteca",
+        "Google_Rating":4.6,
+        "Google_Reviews":475,
+        "Address":"Kornhamnstorg 47, 111 27 Stockholm, Sweden"
+    },
+    {
+        "Name":"Restaurant Leijontornet",
+        "Google_Rating":4.6,
+        "Google_Reviews":71,
+        "Address":"Lilla Nygatan 5, 111 28 Stockholm, Sweden"
+    },
+    {
+        "Name":"Sj\u00e4tte Tunnan",
+        "Google_Rating":4.2,
+        "Google_Reviews":1936,
+        "Address":"Stora Nygatan 43, 111 27 Stockholm, Sweden"
+    },
+    {
+        "Name":"Zum Franziskaner",
+        "Google_Rating":4.4,
+        "Google_Reviews":2006,
+        "Address":"Skeppsbron 44, 111 30 Stockholm, Sweden"
+    },
+    {
+        "Name":"Bar Talea",
+        "Google_Rating":4.9,
+        "Google_Reviews":71,
+        "Address":"\u00d6sterl\u00e5nggatan 18, 111 31 Stockholm, Sweden"
+    },
+    {
+        "Name":"Caf\u00e9 Schweizer",
+        "Google_Rating":4.5,
+        "Google_Reviews":2630,
+        "Address":"V\u00e4sterl\u00e5nggatan 9, 111 29 Stockholm, Sweden"
+    },
+    {
+        "Name":"Burgers'n'Fuel",
+        "Google_Rating":4.6,
+        "Google_Reviews":1228,
+        "Address":"V\u00e4sterl\u00e5nggatan 51, 111 29 Stockholm, Sweden"
+    },
+    {
+        "Name":"Restaurang M\u00e5rten Trotzig",
+        "Google_Rating":4.2,
+        "Google_Reviews":1872,
+        "Address":"V\u00e4sterl\u00e5nggatan 79, 111 29 Stockholm, Sweden"
+    },
+    {
+        "Name":"Geronimo's FGT",
+        "Google_Rating":4.4,
+        "Google_Reviews":897,
+        "Address":"Stora Nygatan 5, 111 27 Stockholm, Sweden"
+    },
+    {
+        "Name":"La Chef",
+        "Google_Rating":4.4,
+        "Google_Reviews":406,
+        "Address":"Storkyrkobrinken 14-16, 111 28 Stockholm, Sweden"
+    },
+    {
+        "Name":"Cong",
+        "Google_Rating":4.8,
+        "Google_Reviews":610,
+        "Address":"Kornhamnstorg 51, 111 27 Stockholm, Sweden"
+    },
+    {
+        "Name":"Texas Longhorn",
+        "Google_Rating":4.1,
+        "Google_Reviews":1378,
+        "Address":"Svartmangatan 11, 111 29 Stockholm, Sweden"
+    },
+    {
+        "Name":"Restaurang Stortorgsk\u00e4llaren",
+        "Google_Rating":4.1,
+        "Google_Reviews":1038,
+        "Address":"Stortorget 7, 111 29 Stockholm, Sweden"
+    },
+    {
+        "Name":"Ving\u00e5rden",
+        "Google_Rating":4.3,
+        "Google_Reviews":145,
+        "Address":"Lilla Nygatan 5, 111 28 Stockholm, Sweden"
+    },
+    {
+        "Name":"Bistro Marie",
+        "Google_Rating":4.0,
+        "Google_Reviews":179,
+        "Address":"Stora Nygatan 28, 111 27 Stockholm, Sweden"
+    },
+    {
+        "Name":"Ristorante Rodolfino since 1972",
+        "Google_Rating":4.0,
+        "Google_Reviews":1565,
+        "Address":"Stora Nygatan 1, 111 27 Stockholm, Sweden"
+    },
+    {
+        "Name":"Old Town Lantern",
+        "Google_Rating":4.3,
+        "Google_Reviews":148,
+        "Address":"\u00d6sterl\u00e5nggatan 8, 111 31 Stockholm, Sweden"
+    },
+    {
+        "Name":"Borgm\u00e4star'n Bistro & Bar",
+        "Google_Rating":4.1,
+        "Google_Reviews":895,
+        "Address":"Stora Nygatan 35, 111 27 Stockholm, Sweden"
+    },
+    {
+        "Name":"Gamla Stans Lykta",
+        "Google_Rating":4.5,
+        "Google_Reviews":572,
+        "Address":"\u00d6sterl\u00e5nggatan 8, 111 31 Stockholm, Sweden"
+    },
+    {
+        "Name":"S:ta Clara Restaurant, Bierhaus & Live Musik Venue",
+        "Google_Rating":4.3,
+        "Google_Reviews":873,
+        "Address":"Lilla Nygatan 17, 111 28 Stockholm, Sweden"
+    },
+    {
+        "Name":"Pastis",
+        "Google_Rating":4.2,
+        "Google_Reviews":622,
+        "Address":"Baggensgatan 12, 111 31 Stockholm, Sweden"
+    },
+    {
+        "Name":"Daphne's",
+        "Google_Rating":4.1,
+        "Google_Reviews":265,
+        "Address":"Stora Nygatan 28, 111 55 Stockholm, Sweden"
+    },
+    {
+        "Name":"Restaurang Michelangelo",
+        "Google_Rating":4.2,
+        "Google_Reviews":4014,
+        "Address":"V\u00e4sterl\u00e5nggatan 62, 111 29 Stockholm, Sweden"
+    },
+    {
+        "Name":"Grillska Huset",
+        "Google_Rating":4.3,
+        "Google_Reviews":971,
+        "Address":"Stortorget 3, 111 29 Stockholm, Sweden"
+    },
+    {
+        "Name":"J\u00e4rnet Bar & Restaurant",
+        "Google_Rating":4.4,
+        "Google_Reviews":730,
+        "Address":"\u00d6sterl\u00e5nggatan 34, 111 31 Stockholm, Sweden"
+    },
+    {
+        "Name":"Sallys Ristorante",
+        "Google_Rating":4.0,
+        "Google_Reviews":433,
+        "Address":"V\u00e4sterl\u00e5nggatan 52, 111 29 Stockholm, Sweden"
+    },
+    {
+        "Name":"House of Burgers",
+        "Google_Rating":3.5,
+        "Google_Reviews":1166,
+        "Address":"V\u00e4sterl\u00e5nggatan 50, 111 27 Stockholm, Sweden"
+    },
+    {
+        "Name":"Restaurang Misteln Bar & Caf\u00e8",
+        "Google_Rating":4.1,
+        "Google_Reviews":261,
+        "Address":"Stortorget 22, 111 29 Stockholm, Sweden"
+    },
+    {
+        "Name":"Mister French",
+        "Google_Rating":3.8,
+        "Google_Reviews":3343,
+        "Address":"Tullhus 2, 111 30 Stockholm, Sweden"
+    },
+    {
+        "Name":"Jerusalem Kebab",
+        "Google_Rating":4.3,
+        "Google_Reviews":1026,
+        "Address":"G\u00e5sgr\u00e4nd 2, 111 27 Stockholm, Sweden"
+    },
+    {
+        "Name":"Fracema",
+        "Google_Rating":1.5,
+        "Google_Reviews":6,
+        "Address":"Stora Nygatan 1, 111 27 Stockholm, Sweden"
+    },
+    {
+        "Name":"Restaurant AG",
+        "Google_Rating":4.5,
+        "Google_Reviews":3882,
+        "Address":"Kronobergsgatan 37, 112 33 Stockholm, Sweden"
+    },
+    {
+        "Name":"Agnes",
+        "Google_Rating":4.5,
+        "Google_Reviews":661,
+        "Address":"Norra Agnegatan 43, 112 29 Stockholm, Sweden"
+    },
+    {
+        "Name":"Restaurang Bergamott AB",
+        "Google_Rating":4.6,
+        "Google_Reviews":283,
+        "Address":"Hantverkargatan 35, 112 21 Stockholm, Sweden"
+    },
+    {
+        "Name":"Le Passepartout",
+        "Google_Rating":4.9,
+        "Google_Reviews":88,
+        "Address":"Wargentinsgatan 5A, 112 29 Stockholm, Sweden"
+    },
+    {
+        "Name":"Spisa hos Helena",
+        "Google_Rating":4.3,
+        "Google_Reviews":1176,
+        "Address":"Scheelegatan 18, 112 28 Stockholm, Sweden"
+    },
+    {
+        "Name":"La Nonna",
+        "Google_Rating":4.3,
+        "Google_Reviews":436,
+        "Address":"Fleminggatan 45, 112 32 Stockholm, Sweden"
+    },
+    {
+        "Name":"Restaurang Springrolls",
+        "Google_Rating":4.6,
+        "Google_Reviews":409,
+        "Address":"Hantverkargatan 84, 112 38 Stockholm, Sweden"
+    },
+    {
+        "Name":"Soth's Kitchen",
+        "Google_Rating":4.1,
+        "Google_Reviews":684,
+        "Address":"R\u00e5lambshovsleden 50, 112 19 Stockholm, Sweden"
+    },
+    {
+        "Name":"Kungsfisk eatery",
+        "Google_Rating":4.9,
+        "Google_Reviews":25,
+        "Address":"Norra Agnegatan 41, 112 29 Stockholm, Sweden"
+    },
+    {
+        "Name":"TAPAS 28",
+        "Google_Rating":4.2,
+        "Google_Reviews":912,
+        "Address":"Pontonj\u00e4rgatan 28, 112 37 Stockholm, Sweden"
+    },
+    {
+        "Name":"MoonCake Restaurang",
+        "Google_Rating":4.5,
+        "Google_Reviews":498,
+        "Address":"Bergsgatan 33, 112 28 Stockholm, Sweden"
+    },
+    {
+        "Name":"The Streetfood Labs",
+        "Google_Rating":4.5,
+        "Google_Reviews":840,
+        "Address":"Sankt Eriksgatan 1, 112 39 Stockholm, Sweden"
+    },
+    {
+        "Name":"Restaurang Almaza",
+        "Google_Rating":4.4,
+        "Google_Reviews":582,
+        "Address":"Scheelegatan 3, 112 23 Stockholm, Sweden"
+    },
+    {
+        "Name":"Tabbouli",
+        "Google_Rating":4.4,
+        "Google_Reviews":497,
+        "Address":"Norra Agnegatan 39, 112 29 Stockholm, Sweden"
+    },
+    {
+        "Name":"Chez Kny Bistro & Catering",
+        "Google_Rating":4.8,
+        "Google_Reviews":11,
+        "Address":"Wargentinsgatan 3, 112 29 Stockholm, Sweden"
+    },
+    {
+        "Name":"Meno Male Kungsholmen",
+        "Google_Rating":4.4,
+        "Google_Reviews":1844,
+        "Address":"Hantverkargatan 14, 112 21 Stockholm, Sweden"
+    },
+    {
+        "Name":"Bella Vista",
+        "Google_Rating":4.2,
+        "Google_Reviews":486,
+        "Address":"Fridhemsgatan 62, 112 46 Stockholm, Sweden"
+    },
+    {
+        "Name":"Ol\u00e9 Ol\u00e9",
+        "Google_Rating":4.4,
+        "Google_Reviews":390,
+        "Address":"Hantverkargatan 30, 112 21 Stockholm, Sweden"
+    },
+    {
+        "Name":"Xarcuteria",
+        "Google_Rating":4.4,
+        "Google_Reviews":258,
+        "Address":"Hantverkargatan 40, 112 21 Stockholm, Sweden"
+    },
+    {
+        "Name":"Bord",
+        "Google_Rating":4.7,
+        "Google_Reviews":111,
+        "Address":"Roslagsgatan 43, 113 54 Stockholm, Sweden"
+    },
+    {
+        "Name":"Aama Himalayan Kitchen Stockholm",
+        "Google_Rating":4.8,
+        "Google_Reviews":590,
+        "Address":"Fridhemsgatan 15, 112 40 Stockholm, Sweden"
+    },
+    {
+        "Name":"The kulture",
+        "Google_Rating":4.8,
+        "Google_Reviews":702,
+        "Address":"Fridhemsgatan 3, 112 40 Stockholm, Sweden"
+    },
+    {
+        "Name":"Ban Yan",
+        "Google_Rating":4.4,
+        "Google_Reviews":360,
+        "Address":"Hantverkargatan 84, 112 38 Stockholm, Sweden"
+    },
+    {
+        "Name":"The Old Brewer - Public House & Dining Room",
+        "Google_Rating":4.6,
+        "Google_Reviews":559,
+        "Address":"Luntmakargatan 98, 113 51 Stockholm, Sweden"
+    },
+    {
+        "Name":"Trattoria Villa Romana",
+        "Google_Rating":4.1,
+        "Google_Reviews":573,
+        "Address":"Kungsbroplan 1, 112 26 Stockholm, Sweden"
+    },
+    {
+        "Name":"Boteco Da Silvania",
+        "Google_Rating":4.4,
+        "Google_Reviews":541,
+        "Address":"Kungsholms strand 173, 112 48 Stockholm, Sweden"
+    },
+    {
+        "Name":"Nha Trang Restaurant",
+        "Google_Rating":4.2,
+        "Google_Reviews":537,
+        "Address":"Fleminggatan 60, 112 45 Stockholm, Sweden"
+    },
+    {
+        "Name":"Mamadou",
+        "Google_Rating":4.2,
+        "Google_Reviews":442,
+        "Address":"Sankt Eriksgatan 6, 112 39 Stockholm, Sweden"
+    },
+    {
+        "Name":"Restaurang Pellegrini",
+        "Google_Rating":4.6,
+        "Google_Reviews":111,
+        "Address":"Fleminggatan 95, 112 45 Stockholm, Sweden"
+    },
+    {
+        "Name":"Naked Fish Sushi Bar",
+        "Google_Rating":4.6,
+        "Google_Reviews":750,
+        "Address":"Kungsholmsgatan 4A, 112 27 Stockholm, Sweden"
+    },
+    {
+        "Name":"Trattorian",
+        "Google_Rating":4.1,
+        "Google_Reviews":2290,
+        "Address":"Norr M\u00e4larstrand Kajplats 464, 112 20 Stockholm, Sweden"
+    },
+    {
+        "Name":"BrewDog Kungsholmen",
+        "Google_Rating":4.1,
+        "Google_Reviews":1330,
+        "Address":"Sankt Eriksgatan 56, 112 34 Stockholm, Sweden"
+    },
+    {
+        "Name":"Bar Abrovinsch",
+        "Google_Rating":4.6,
+        "Google_Reviews":136,
+        "Address":"Inedalsgatan 15, 112 33 Stockholm, Sweden"
+    },
+    {
+        "Name":"Styrelsen bar & bistro",
+        "Google_Rating":4.3,
+        "Google_Reviews":384,
+        "Address":"Hantverkargatan 31, 112 21 Stockholm, Sweden"
+    },
+    {
+        "Name":"MAHA Food",
+        "Google_Rating":4.7,
+        "Google_Reviews":48,
+        "Address":"Carl-Gustaf Lindstedts gata 2, 112 69 Stockholm, Sweden"
+    },
+    {
+        "Name":"Piren",
+        "Google_Rating":4.1,
+        "Google_Reviews":1370,
+        "Address":"Kristinebergs Strand 2, 112 52 Stockholm, Sweden"
+    },
+    {
+        "Name":"Bun Bun Kungsholmen",
+        "Google_Rating":4.6,
+        "Google_Reviews":16,
+        "Address":"Sankt Eriksgatan 47, 112 34 Stockholm, Sweden"
+    },
+    {
+        "Name":"M\u00e4ster Anders",
+        "Google_Rating":4.1,
+        "Google_Reviews":573,
+        "Address":"Pipersgatan 1, 112 24 Stockholm, Sweden"
+    },
+    {
+        "Name":"Maxos",
+        "Google_Rating":4.5,
+        "Google_Reviews":699,
+        "Address":"Scheelegatan 13, 112 28 Stockholm, Sweden"
+    },
+    {
+        "Name":"Santa Salsa Stockholm",
+        "Google_Rating":4.3,
+        "Google_Reviews":186,
+        "Address":"Hantverkargatan 76, 112 28 Stockholm, Sweden"
+    },
+    {
+        "Name":"Mozarteum Restaurang",
+        "Google_Rating":4.2,
+        "Google_Reviews":284,
+        "Address":"Kungsgatan 82, 112 27 Stockholm, Sweden"
+    },
+    {
+        "Name":"Deglabbet Kungsholmen",
+        "Google_Rating":4.7,
+        "Google_Reviews":195,
+        "Address":"Polhemsgatan 21, 112 30 Stockholm, Sweden"
+    },
+    {
+        "Name":"Le Bistro",
+        "Google_Rating":4.0,
+        "Google_Reviews":487,
+        "Address":"Sankt Eriksgatan 45, 112 34 Stockholm, Sweden"
+    },
+    {
+        "Name":"Restaurang Tribeca",
+        "Google_Rating":4.3,
+        "Google_Reviews":310,
+        "Address":"Fleminggatan 27, 112 26 Stockholm, Sweden"
+    },
+    {
+        "Name":"Lokal Izakaya",
+        "Google_Rating":3.9,
+        "Google_Reviews":327,
+        "Address":"Scheelegatan 8, 112 23 Stockholm, Sweden"
+    },
+    {
+        "Name":"German Beer Hall",
+        "Google_Rating":4.1,
+        "Google_Reviews":230,
+        "Address":"Hantverkargatan 71, 112 38 Stockholm, Sweden"
+    },
+    {
+        "Name":"Le Rustique",
+        "Google_Rating":4.3,
+        "Google_Reviews":300,
+        "Address":"Franz\u00e9ngatan 74, 112 16 Stockholm, Sweden"
+    },
+    {
+        "Name":"K-Amed Kolgrill",
+        "Google_Rating":4.4,
+        "Google_Reviews":645,
+        "Address":"Fleminggatan 21, 112 26 Stockholm, Sweden"
+    },
+    {
+        "Name":"Orangeriet",
+        "Google_Rating":4.0,
+        "Google_Reviews":2045,
+        "Address":"Norr M\u00e4larstrand Kajplats 464, 112 20 Stockholm, Sweden"
+    },
+    {
+        "Name":"R\u00e5dhusbaren",
+        "Google_Rating":4.3,
+        "Google_Reviews":57,
+        "Address":"Bergsgatan 23, 112 28 Stockholm, Sweden"
+    },
+    {
+        "Name":"Mahalo Kungsholmen",
+        "Google_Rating":4.5,
+        "Google_Reviews":31,
+        "Address":"Hantverkargatan 34, 112 21 Stockholm, Sweden"
+    },
+    {
+        "Name":"Kungsholmens Vinbar",
+        "Google_Rating":4.4,
+        "Google_Reviews":169,
+        "Address":"Fleminggatan 62, 112 45 Stockholm, Sweden"
+    },
+    {
+        "Name":"Amai Sushi",
+        "Google_Rating":4.9,
+        "Google_Reviews":146,
+        "Address":"Svarvargatan 20, 112 49 Stockholm, Sweden"
+    },
+    {
+        "Name":"INO sushi & bar",
+        "Google_Rating":4.5,
+        "Google_Reviews":195,
+        "Address":"Fleminggatan 95, 112 45 Stockholm, Sweden"
+    },
+    {
+        "Name":"Vinfolket",
+        "Google_Rating":4.4,
+        "Google_Reviews":214,
+        "Address":"Scheelegatan 2, 112 23 Stockholm, Sweden"
+    },
+    {
+        "Name":"Lulu",
+        "Google_Rating":4.5,
+        "Google_Reviews":86,
+        "Address":"Pontonj\u00e4rgatan 28, 112 37 Stockholm, Sweden"
+    },
+    {
+        "Name":"Caliente",
+        "Google_Rating":3.9,
+        "Google_Reviews":574,
+        "Address":"Fleminggatan 22B, 112 32 Stockholm, Sweden"
+    },
+    {
+        "Name":"85 Kvadrat Tapas",
+        "Google_Rating":4.3,
+        "Google_Reviews":155,
+        "Address":"John Ericssonsgatan 15, 112 22 Stockholm, Sweden"
+    },
+    {
+        "Name":"Wilmer Kaffebar",
+        "Google_Rating":4.3,
+        "Google_Reviews":619,
+        "Address":"Bergsgatan 30, 112 23 Stockholm, Sweden"
+    }
+]
